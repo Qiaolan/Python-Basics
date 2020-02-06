@@ -1,3 +1,3 @@
 # Python_basics
 Python for rookie
-[icon.png](./images/icon.png)
+[Python basics](./python_basics.ipynb)
